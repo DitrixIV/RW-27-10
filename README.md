@@ -2,6 +2,16 @@
 
 A full-stack application built with Angular and .NET Core for viewing employee profile information from SAP through a REST API.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Quick Links
+
+- [Live Demo](#) <!-- Add your deployed application URL here -->
+- [API Documentation](#) <!-- Add your API documentation URL here -->
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Report Bug](../../issues)
+- [Request Feature](../../issues)
+
 ## Features
 
 - Windows Authentication integration
